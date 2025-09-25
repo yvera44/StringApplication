@@ -22,7 +22,7 @@ public class VariableApp {
    String favLetter = "Y";
    Boolean itIsRaining = false;
 
-   System.out.println("There are " + 7 + " days in a week.");
+   System.out.println("There are " + daysInWeek + " days in a week.");
    System.out.println("A cup of Coffee is $" + coffeePrice);
    System.out.println("My favorite letter is " + favLetter);
    System.out.println("It is currently raining: " + itIsRaining);
