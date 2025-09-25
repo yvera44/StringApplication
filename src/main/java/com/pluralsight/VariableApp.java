@@ -12,7 +12,7 @@ public class VariableApp {
 
     System.out.println("My favorite color is " + color);
     System.out.println("Year I Started: " + year);
-    System.out.println("My middle initial " + middleInitial);
+    System.out.println("My middle initial is " + middleInitial);
     System.out.println("I have a pet " + pets);
     System.out.println("My message to you: " + message);
 
